@@ -1,7 +1,6 @@
 # BigDataProgramming
 Contains code written for assignments for Big Data Programming, designed to be implemented for hadoop and spark clusters. 
 
-Spark Branch:
 * PageRank_Spark - Compute the PageRank values using the Power Iteration method using lambda functions, assumes 30 iterations  
     Input: file containing adjacency list (see 02AdjacencyList.txt for example of valid input file.)  
     Output: PageRankValues and txt file containing PageRank values  
